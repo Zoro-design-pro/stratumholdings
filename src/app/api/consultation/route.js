@@ -122,7 +122,7 @@ export async function POST(request) {
 
           to: [
             {
-              email: "zbrlohar@gmail.com",
+              email: "info@thestratumholdings.com",
               name: "Stratum Holdings",
             },
           ],
