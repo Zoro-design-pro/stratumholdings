@@ -1,6 +1,6 @@
 
 import Link from "next/link";
-import { Reveal } from "../components/Reveal";
+import { Reveal } from "./components/Reveal";
 
 export const metadata = {
   title: "Stratum Holdings | Global Business Process Outsourcing",
